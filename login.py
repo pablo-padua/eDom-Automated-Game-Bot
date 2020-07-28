@@ -1,0 +1,6 @@
+username=''
+password=''
+energy = '2000 / 2000'
+no_energy = '0 / 2000'
+cronometro = '00:00'
+zero = '00:00:00'
