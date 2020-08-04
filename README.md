@@ -1,5 +1,5 @@
 # automated_web_bot
-This is a game bot that requires a license key. 
+This is a game bot that requires an encrypted license key. 
  If you dont have a license or your old one expired, contact me: Padua#6834 on Discord
 
 You need python, selenium, chrome webdriver installed and also do a "pip selenium" and "pip selenium" on terminal.
