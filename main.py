@@ -137,7 +137,7 @@ class eDomBot:
                             #         pass
                             while self.driver.find_element_by_id("energyBarT").get_attribute("innerHTML") != no_energy:
                                     sleep(3)
-                                    logging.warning("time to shoot up some bitches...")
+                                    logging.warning("time to shoot up some bad guys...")
                                     #after weapon selection, we are ready to continue:
                                     self.driver.find_element_by_xpath('/html/body/div[2]/div/div[2]/div[2]/div/div/div/div/div/div[1]/div[20]/div/a[2]').click()
                                     sleep(3)
