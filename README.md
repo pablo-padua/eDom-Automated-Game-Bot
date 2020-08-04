@@ -1,7 +1,7 @@
 # automated_web_bot
-This is a game bot that requires licenses.
-If you dont have a license or your old one expired, contact me
-developer: Padua#6834 on Discord
+This is a game bot that requires licenses.\n
+If you dont have a license or your old one expired, contact me\n
+developer: Padua#6834 on Discord\n\n
 
 you need python, selenium, chrome webdriver installed and also do a "pip selenium" and "pip selenium" on terminal.
 
