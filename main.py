@@ -4,6 +4,8 @@ from login import username, password, cronometro, energy, no_energy, zero
 import logging
 from licensing.methods import Key, Helpers
 
+#written by Padua, game url, RSA Public Key and authentication code are removed from this code sample 
+#If you have interest in this code contact me on Discord: Padua#6834
 RSAPubKey = ""
 auth = ""
 
@@ -30,7 +32,7 @@ class eDomBot:
             self.driver.get("")
             logging.warning("Started")
             sleep(1)
-            self.driver.find_element_by_xpath("//a[@href='https://www./en/login']").click()
+            self.driver.find_element_by_xpath("//a[@href='']").click()
             sleep(2)
             self.driver.find_element_by_xpath("//input[@name=\"email\"]").send_keys(username)
             sleep(2)
@@ -239,6 +241,6 @@ class eDomBot:
                 sleep(1)
                 self.driver.get("")
         except:
-            logging.warning("nao conseguiu NEM clicar em productions.")
+            logging.warning("Couldnt EVEN click on the productions tab - rare error, provide it to developer.")
             sleep(1)
             self.driver.get("")
