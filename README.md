@@ -5,7 +5,7 @@ This is a game bot that requires an encrypted license key.
 You need python, selenium, chrome webdriver installed and also do a "pip install licenses" and "pip install selenium" on terminal.
 
 If you minimize the Bot window then you will be pausing the game collectors, 
-you can choose whether you want constant collectors you can have it by not minimizing the selenium chrome tab
+you can choose whether you want constant collectors. You can have it by not minimizing the selenium chrome tab
 or minimize if you wish to stop it.
 
 If you have any issues with the bot, contact me on telegram or discord!
