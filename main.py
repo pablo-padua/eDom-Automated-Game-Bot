@@ -70,7 +70,7 @@ class eDomBot:
                     try:
                         a=self.driver.find_element_by_xpath("/html/body/div[2]/div/div[2]/div[2]/div/div/div/div[1]/div[1]/div[1]/div/span").get_attribute("innerHTML")
                         if a==cronometro:
-                            logging.warning("Second click Contador - please provide this information to the dev")
+                            logging.warning("Second click collectors")
                             self.driver.find_element_by_id("farmimage_1").click()
                             self.driver.find_element_by_id("farmimage_2").click()
                             self.driver.find_element_by_id("farmimage_3").click()
