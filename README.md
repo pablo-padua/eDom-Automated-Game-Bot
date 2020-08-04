@@ -2,7 +2,7 @@
 This is a game bot that requires a license key. 
  If you dont have a license or your old one expired, contact me: Padua#6834 on Discord
 
-you need python, selenium, chrome webdriver installed and also do a "pip selenium" and "pip selenium" on terminal.
+You need python, selenium, chrome webdriver installed and also do a "pip selenium" and "pip selenium" on terminal.
 
 PS:If you minimize the Bot window then you will be pausing the game collectors, 
 you can choose whether you want constant collectors by not minimizing the selenium chrome tab
