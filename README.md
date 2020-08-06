@@ -11,3 +11,8 @@ or minimize if you wish to stop it.
 If you have any issues with the bot, contact me on telegram or discord!
 
 PS: I removed the game url from the script files above(for obvious reasons), also removed a few things related to the encrypted key itself, such as product id, rsakey and token authentication, if you wish to know more about this eDomination bot, contact me.
+
+
+![example bot] (https://i.ibb.co/0FJjLL3/example-bot.png)
+
+![example keys] (https://i.ibb.co/vkN5ZBS/keys.png)
